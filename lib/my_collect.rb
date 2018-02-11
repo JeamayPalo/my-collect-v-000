@@ -1,12 +1,5 @@
 
 def my_collect(array)
-  my_collect(array) do |name|
-    name.split(" ").first
-  end
-end
-
-
-def hello(array)
   i = 0
   collection = []
   while i < array.length
