@@ -1,5 +1,5 @@
 
-
+def my_collect
 
 
 def hello(array)
